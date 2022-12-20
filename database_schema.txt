@@ -1,0 +1,5 @@
+Tabla: usuarios
+    id, int, pk, autoincremental
+    nombre, text
+    fecha_inicio, date,
+    salario, int
